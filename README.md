@@ -47,3 +47,4 @@ python selenium_image_scraper.py
 ---
 
 **Mọi thắc mắc hoặc cần nâng cấp thêm, hãy tạo issue hoặc liên hệ tác giả!** 
+![image](https://github.com/user-attachments/assets/b51112d0-098c-4650-9463-f6e1ea8dec77)
